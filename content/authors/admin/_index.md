@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Jonathan Hernández
+role: Investigador Asociado
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IIBI-UNAM
+    url: www.iibi.unam.mx
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soy Jonathan Hernández, investigador del Instituto de Investigaciones Bibliotecológicas y de la Información de la UNAM. Mis intereses académicos se centran en el acceso a la información, infodiversidad, desinformación y olvido digital. He trabajado de cerca con asociaciones bibliotecarias nacionales e internacionales. Me apasiona el cine de terror, la cultura vaporwave y el synth-pop. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
