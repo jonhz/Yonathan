@@ -21,4 +21,4 @@ content:
 design:
   view: 2
 ---
-Candidatura para la posición de miembro de la Junta de Gobierno 2021-2023
+Actividades en la IFLA
