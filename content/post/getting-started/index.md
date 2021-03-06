@@ -75,8 +75,16 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 **National Library of Perú** \
 [Lectura, Biblioteca y Comunidad ](http://aulavirtual.bnp.edu.pe/course/view.php?id=9)
 
+**American Library Association** \
+[An International Leaders Forum](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=499414)
+
 **Guatemala Library Association** \
 [Tecnologia en tiempos de pandemia](https://www.youtube.com/watch?v=CfVZN9NUmOQ)
+
+**L’Enssib à Lyon / L’Association des bibliothécaires de France / Comité français international bibliothèques et documentation - CFIBD** \
+[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)
+
+![[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)](cfibd.jpg "[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)")
 
 **Biblioteca del Congreso de la Nación - Chile** \
 [El rol del Acceso Publico a Internet en la Implementación de la Agenda 2030](https://www.youtube.com/watch?v=oaXdHmzHlXY&t=54s)
