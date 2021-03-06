@@ -2,27 +2,24 @@
 title: Statement of Candidacy
 subtitle: Welcome 👋 you can find my recent IFLA activity here.
 date: 2020-12-13T00:00:00.000Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: Welcome 👋 you can find my recent IFLA activity here.
 draft: false
 featured: false
 authors:
-  - admin
-  - ""
+  - Jonathan
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Academic
+  - IFLA
 categories:
-  - Demo
-  - ""
+  - IFLA
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: IFLA Governing Board 2019-2021
   focal_point: ""
   placement: 2
   preview_only: false
   filename: featured.jpg
+  alt_text: IFLA Governing Board 2019-2021
 ---
 ## Statement of Candidacy for the position of Governing Board Member 2021-2023
 
@@ -77,3 +74,11 @@ FAIFE Webinar Track and Trace: Covid 19 and Library Privacy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## IFLA LAC
+
+![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpg "IFLA LAC MidTerm Meeting 2020")
+
+[IFLA LAC MidTerm Meeting 2020](https://www.ifla.org/node/92866) 
+
+[Webinar IFLA LAC Reforma](https://www.ifla.org/ES/node/93443) 
+
+[Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
