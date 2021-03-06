@@ -31,17 +31,25 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 ![Launch of the 2017 DA2I Report at The New York Public Library](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
 
-## [Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
 
-## [Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755)
 
-## [The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
+**Advocacy**\
+[Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755)
 
-## [Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
+[Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
 
-## [Facial Recognition, Libraries, and Intellectual Freedom (FAIFE Speak Up! Blog) ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
+[The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
 
-## [FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
+**IFLA Interview** \
+[Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
+
+**FAIFE Speak Up! Blog**\
+[Facial Recognition, Libraries, and Intellectual Freedom ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
+
+
+
+**FAIFE Webinar**\
+[FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
