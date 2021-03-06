@@ -1,7 +1,7 @@
 ---
-title: IFLA Advocate
+title: Statement of Candidacy
 subtitle: Welcome 👋 you can find my recent IFLA activity here.
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
@@ -10,7 +10,7 @@ featured: false
 authors:
   - admin
   - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
   - 开源
@@ -40,24 +40,30 @@ Thank you,
 
 Jonathan Hernández
 
-
-
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-## IFLA International Leadership Programme 
+## IFLA International Leadership Programme
+
+![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
+
+[Associates Announced](https://www.ifla.org/node/10587)
+
+[From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
+
+[Internet Governance Forum 2016](https://www.ifla.org/node/11031)
+
+## Access to Information 
+
+[Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755) 
+
+
 
 
 
 ## FAIFE
 
-
-
 FAIFE Webinar Track and Trace: Covid 19 and Library Privacy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
 
 ## IFLA LAC
