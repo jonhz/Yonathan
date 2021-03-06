@@ -75,3 +75,15 @@ Speaker at Dag Hammarskjöld UN Library Insight Series.
 
 [The Contribution of Libraries to the Fight Against Misinformation.](https://research.un.org/conferences/webinars)
  <iframe width="560" height="315" src="https://www.youtube.com/embed/hyBMnVZhcMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Speaker at National Library of Perú 
+
+[Lectura, Biblioteca y Comunidad ](http://aulavirtual.bnp.edu.pe/course/view.php?id=9)
+
+Speaker at Guatemala Library Association 
+
+[Tecnologia en tiempos de pandemia](https://www.youtube.com/watch?v=CfVZN9NUmOQ)
+
+Speaker at Biblioteca del Congreso de la Nación - Chile 
+
+El rol del Acceso Publico  uhrf In
