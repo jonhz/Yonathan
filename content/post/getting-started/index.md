@@ -1,8 +1,8 @@
 ---
 title: Statement of Candidacy
-subtitle: Welcome 👋 you can find my recent IFLA activity here.
+subtitle: "Welcome 👋 you can find my recent IFLA activity here. "
 date: 2020-12-13T00:00:00.000Z
-summary: Welcome 👋 you can find my recent IFLA activity here.
+summary: You can find most of my IFLA activity here.
 draft: false
 featured: false
 authors:
