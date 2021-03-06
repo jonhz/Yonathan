@@ -10,6 +10,8 @@ authors:
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - IFLA
+  - Libraries
+  - LAC
 categories:
   - IFLA
 projects: []
@@ -35,39 +37,23 @@ Supported by the Mexican Library Association (AMBAC) and the Library and Informa
 
 Thank you,
 
-Jonathan Hernández
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-## Access to Information 
+## Advocacy, Talks, and Interviews
+
+
 
 ![](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
 
 [Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
 
-## IFLA International Leadership Programme
-
-![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
-
-[Associates Announced](https://www.ifla.org/node/10587)
-
-[From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
-
-[Internet Governance Forum 2016](https://www.ifla.org/node/11031)
-
-## Access to Information 
-
 [Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755) 
 
 [The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
 
+[Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
 
-
-## FAIFE
-
-
-
-
+[Facial Recognition, Libraries, and Intellectual Freedom](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/) (FAIFE Speak Up! Blog) 
 
 FAIFE Webinar Track and Trace: Covid 19 and Library Privacy
 
@@ -82,3 +68,13 @@ FAIFE Webinar Track and Trace: Covid 19 and Library Privacy
 [Webinar IFLA LAC Reforma](https://www.ifla.org/ES/node/93443) 
 
 [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
+
+## IFLA International Leadership Programme
+
+![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
+
+### [Associates Announced](https://www.ifla.org/node/10587)
+
+### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
+
+### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
