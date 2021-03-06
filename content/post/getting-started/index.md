@@ -69,7 +69,7 @@ Thank you,
 
 ### [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
-## IFLA International Leadership Programme
+# IFLA International Leadership Programme
 
 ![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
