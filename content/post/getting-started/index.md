@@ -59,7 +59,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 # IFLA International Leadership Programme
 
-![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
+![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
 ### [Associates Announced](https://www.ifla.org/node/10587)
 
@@ -69,4 +69,9 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 
 
-# IFLA International Leadership Programme
+# Working with Libraries and Library Associations 
+
+Speaker at Dag Hammarskjöld UN Library Insight Series.
+
+[The Contribution of Libraries to the Fight Against Misinformation.](https://research.un.org/conferences/webinars)
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/hyBMnVZhcMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
