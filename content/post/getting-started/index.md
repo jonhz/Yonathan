@@ -99,3 +99,12 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 **Wikimedia México** \
 [Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink)
+
+
+
+# Mexican Professional Library Association (CNB) 
+
+**President 2017-2019** \
+Here's a picture of our 2019 Conference at Chiapas, Mexico.
+
+![7 Congreso del Colegio Nacional de Bibliotecarios](congreso.jpg "7 Congreso del Colegio Nacional de Bibliotecarios")
