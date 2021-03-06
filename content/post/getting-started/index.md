@@ -37,7 +37,7 @@ Supported by the Mexican Library Association (AMBAC) and the Library and Informa
 
 Thank you,
 
-##### **Advocacy, Talks, and Interviews**
+# **Advocacy, Talks, and Interviews**
 
 
 
@@ -51,13 +51,13 @@ Thank you,
 
 ### [Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
 
-### [Facial Recognition, Libraries, and Intellectual Freedom](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/) (FAIFE Speak Up! Blog) 
+### [Facial Recognition, Libraries, and Intellectual Freedom (FAIFE Speak Up! Blog) ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
 
 ### [FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### IFLA LAC
+# IFLA LAC
 
 ![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpg "IFLA LAC MidTerm Meeting 2020")
 
@@ -67,7 +67,7 @@ Thank you,
 
 ### [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
-##### IFLA International Leadership Programme
+# IFLA International Leadership Programme
 
 ![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
