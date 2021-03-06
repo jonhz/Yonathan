@@ -9,20 +9,20 @@ draft: false
 featured: false
 authors:
   - admin
-  - 吳恩達
+  - ""
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
-  - 开源
 categories:
   - Demo
-  - 教程
+  - ""
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: featured.jpg
 ---
 ## Statement of Candidacy for the position of Governing Board Member 2021-2023
 
@@ -42,6 +42,12 @@ Jonathan Hernández
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
+## Access to Information 
+
+![](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
+
+[Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
+
 ## IFLA International Leadership Programme
 
 ![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
@@ -56,11 +62,15 @@ Jonathan Hernández
 
 [Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755) 
 
-
+[The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
 
 
 
 ## FAIFE
+
+
+
+
 
 FAIFE Webinar Track and Trace: Covid 19 and Library Privacy
 
