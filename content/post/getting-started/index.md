@@ -27,8 +27,6 @@ It has been a great privilege for me to be a member of the Governing Board for t
 
 I've been active for nearly 10 years in IFLA; working closely with the LAC Region, and the FAIFE Committee, being part of the second cohort of the IFLA International Leaders, advocating for Access to Information, working on several IFLA initiatives as the Global Vision, the IFLA Strategy and the new Governance. This experience has encouraged me to continue working for IFLA with strong convictions; connecting and empowering the library field, expanding opportunities for new librarians, and building strong relationships with strategic allies.
 
-
-
 ## **Advocacy, Talks, and Interviews**
 
 ![Launch of the 2017 DA2I Report at The New York Public Library](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
@@ -61,29 +59,27 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
-### [Associates Announced](https://www.ifla.org/node/10587)
+###### [Associates Announced](https://www.ifla.org/node/10587)
 
-### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
+###### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
-### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
+###### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
 
+# Working with Libraries and Library Associations
 
-
-# Working with Libraries and Library Associations 
-
-Speaker at Dag Hammarskjöld UN Library Insight Series.
-
+**Dag Hammarskjöld UN Library Insight Series.**\
 [The Contribution of Libraries to the Fight Against Misinformation.](https://research.un.org/conferences/webinars)
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/hyBMnVZhcMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Speaker at National Library of Perú 
-
+**National Library of Perú** \
 [Lectura, Biblioteca y Comunidad ](http://aulavirtual.bnp.edu.pe/course/view.php?id=9)
 
-Speaker at Guatemala Library Association 
-
+**Guatemala Library Association** \
 [Tecnologia en tiempos de pandemia](https://www.youtube.com/watch?v=CfVZN9NUmOQ)
 
-Speaker at Biblioteca del Congreso de la Nación - Chile 
+**Biblioteca del Congreso de la Nación - Chile** \
+[El rol del Acceso Publico a Internet en la Implementación de la Agenda 2030](https://www.youtube.com/watch?v=oaXdHmzHlXY&t=54s)
 
-El rol del Acceso Publico  uhrf In
+**Wikimedia México** \
+[Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink)
