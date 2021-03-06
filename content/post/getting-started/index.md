@@ -2,7 +2,7 @@
 title: Statement of Candidacy
 subtitle: "Welcome 👋 you can find my recent IFLA activity here. "
 date: 2020-12-13T00:00:00.000Z
-summary: You can find most of my IFLA activity here.
+summary: You can find some of my IFLA activity here.
 draft: false
 featured: false
 authors:
@@ -37,9 +37,7 @@ Supported by the Mexican Library Association (AMBAC) and the Library and Informa
 
 Thank you,
 
-
-
-## **Advocacy, Talks, and Interviews**
+##### **Advocacy, Talks, and Interviews**
 
 
 
@@ -59,7 +57,7 @@ Thank you,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## IFLA LAC
+##### IFLA LAC
 
 ![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpg "IFLA LAC MidTerm Meeting 2020")
 
@@ -69,7 +67,7 @@ Thank you,
 
 ### [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
-# IFLA International Leadership Programme
+##### IFLA International Leadership Programme
 
 ![](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
