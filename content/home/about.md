@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    text_color_light: true
+    text_color_light: false
 ---
