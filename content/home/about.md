@@ -6,4 +6,7 @@ weight: 20
 title: Acerca de mí
 active: true
 author: admin
+design:
+  background:
+    text_color_light: true
 ---
