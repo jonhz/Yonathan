@@ -41,3 +41,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+url_pdf https://bibliotecauniversitaria.dgb.unam.mx/rbu/article/view/991/994
