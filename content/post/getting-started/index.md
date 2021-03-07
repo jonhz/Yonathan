@@ -29,7 +29,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 
 
-# **Advocacy, Talks, and Interviews**
+## **Advocacy, Talks, and Interviews**
 
 ![Launch of the 2017 DA2I Report at The New York Public Library](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
 
@@ -51,7 +51,9 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# **IFLA LAC**
+
+
+## **IFLA LAC**
 
 ![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpg "IFLA LAC MidTerm Meeting 2020")
 
@@ -61,8 +63,6 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
-# **IFLA International Leadership Programme**
-
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
 ###### [Associates Announced](https://www.ifla.org/node/10587)
@@ -71,7 +71,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 ###### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
 
-# **Working with Libraries, Library Associations and Institutions**
+## **Working with Libraries, Library Associations and Institutions**
 
 \
 **Dag Hammarskjöld UN Library Insight Series.**\
@@ -100,9 +100,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 [El rol del Acceso Publico a Internet en la Implementación de la Agenda 2030](https://www.youtube.com/watch?v=oaXdHmzHlXY&t=54s)
 
 **Wikimedia México** \
-[Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink)
-
-
+[Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink) 
 
 ## Mexican Professional Library Association (CNB) 
 
