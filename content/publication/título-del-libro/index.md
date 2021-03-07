@@ -4,13 +4,12 @@ subtitle: subtitulo
 publication_types:
   - "5"
 authors:
-  - admin
-  - admin2
+  - GuerraGonzalez
+  - HernándezPérez
 author_notes:
   - IIBI
-  - UNAM
-doi: http://ru.iibi.unam.mx/jspui/handle/IIBI_UNAM/125
-publication: aquí qué va?
+doi: ""
+publication: ""
 publication_short: abreviado
 abstract: Gran parte de las actividades que hoy nos resultan cotidianas serían
   impensables sin la mediación de Internet. Hemos pasado rápidamente de una red
@@ -29,6 +28,8 @@ tags:
   - internet
   - bibliotecas
   - acceso
+categories:
+  - publications
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -36,4 +37,3 @@ image:
 summary: ""
 date: 2021-03-07T04:07:02.430Z
 ---
-details optional
