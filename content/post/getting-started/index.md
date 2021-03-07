@@ -34,20 +34,20 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 ![Launch of the 2017 DA2I Report at The New York Public Library](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
 
-**Advocacy**\
+###### **Advocacy**\
 [Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755)
 
-[Open, Inclusive Access to Information: IFLA Speaks at UN High Level Political Forum](https://www.ifla.org/node/11518)
+###### [Open, Inclusive Access to Information: IFLA Speaks at UN High Level Political Forum](https://www.ifla.org/node/11518)
 
-[Latin America and Caribbean Internet Governance Forum](https://www.ifla.org/node/11532)
+###### [Latin America and Caribbean Internet Governance Forum](https://www.ifla.org/node/11532)
 
-##### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
+###### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
 
-##### [Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
+###### [Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
 
-[The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
+###### [The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
 
-[Restore Balance, Protect Freedoms: Copyright Reforms in Mexico Need Rethinking](https://www.ifla.org/node/93209)
+###### [Restore Balance, Protect Freedoms: Copyright Reforms in Mexico Need Rethinking](https://www.ifla.org/node/93209)
 
 **Interviews**  \
 \
