@@ -14,7 +14,11 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "5"
-authors: []
+authors:
+  - Guerra
+  - González
+  - Hernández
+  - Pérez
 author_notes:
   - Equal contribution
   - Equal contribution
