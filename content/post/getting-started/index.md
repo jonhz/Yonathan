@@ -40,12 +40,23 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 [The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
 
-**IFLA Interview** \
+ **Interviews**  \
+IFLA\
 [Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
 
-**FAIFE Speak Up! Blog**\
-[Facial Recognition, Libraries, and Intellectual Freedom ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)\
-\
+ALA International Leads\
+ [A check in with Librarians from around the world](http://www.ala.org/rt/sites/ala.org.rt/files/content/intlleads/leadsarchive/201906r.pdf)
+
+**IFLA Publications** 
+
+FAIFE Speak Up! Blog\
+[Facial Recognition, Libraries, and Intellectual Freedom ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
+
+Conference paper\
+Pun, R., Nangle, D., & Hernández, J. (2017). [Libraries and Gender ♂♀ Neutral / Inclusive Bathrooms: Case Studies on Promoting Information, Inclusivity and Access in Open Spaces](http://library.ifla.org/1670/1/113-pun-en.pdf).
+
+Hernández, J. (2010) [The interactions between Google and librarianship: The Experience of Mexico](https://www.ifla.org/past-wlic/2010/140-hernandez-en.pdf).  
+
 **FAIFE Webinar**\
 [FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
 
