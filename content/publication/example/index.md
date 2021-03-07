@@ -32,7 +32,7 @@ title: "La información después de internet: repensando las libertades, amenaza
   y derechos."
 subtitle: Libro coordinado
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
