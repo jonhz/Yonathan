@@ -1,5 +1,5 @@
 ---
-title: Global work at IFLA
+title: Global work at IFLA and the Library Field.
 subtitle: "Welcome 👋 Here are selected highlights from my global work in the
   library field.  "
 date: 2020-12-13T00:00:00.000Z
@@ -37,11 +37,20 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 **Advocacy**\
 [Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755)
 
-[Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
+[Open, Inclusive Access to Information: IFLA Speaks at UN High Level Political Forum](https://www.ifla.org/node/11518)
+
+[Latin America and Caribbean Internet Governance Forum](https://www.ifla.org/node/11532)
+
+##### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
+
+##### [Trade Deals Should Favour, not Restrict, Access to Knowledge](https://www.ifla.org/node/18575)
 
 [The importance of access to information to achieve sustainable development in Latin America and the Caribbean](https://www.ifla.org/node/37053)
 
- **Interviews**  \
+[Restore Balance, Protect Freedoms: Copyright Reforms in Mexico Need Rethinking](https://www.ifla.org/node/93209)
+
+**Interviews**  \
+\
 IFLA\
 [Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
 
@@ -58,7 +67,7 @@ Pun, R., Nangle, D., & Hernández, J. (2017). [Libraries and Gender ♂♀ Neutr
 
 Hernández, J. (2010) [The interactions between Google and librarianship: The Experience of Mexico](https://www.ifla.org/past-wlic/2010/140-hernandez-en.pdf).  
 
-**FAIFE Webinar**\
+**IFLA-FAIFE Webinar**\
 [FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,13 +84,13 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
+## **IFLA International Leadership Programme**
+
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
-###### [Associates Announced](https://www.ifla.org/node/10587)
+##### [Associates Announced](https://www.ifla.org/node/10587)
 
-###### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
-
-###### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
+##### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
 ## **Working with Libraries, Library Associations and Institutions**
 
