@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: IFLA
+widget_id: Conferencias 2
 headless: true
-weight: 60
-title: IFLA
+weight: 40
+title: Confe
 subtitle: null
 active: false
 content:
