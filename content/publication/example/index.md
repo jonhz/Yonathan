@@ -1,12 +1,15 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: Gran parte de las actividades que hoy nos resultan cotidianas serían
+  impensables sin la mediación de Internet. Hemos pasado rápidamente de una red
+  primitiva, mayormente estática y unidireccional, a una compleja donde están
+  involucrados distintos aspectos de nuestra vida personal y en el que
+  reflejamos múltiples comportamientos sociales con todos los matices que esto
+  conlleva. Si bien los problemas para el acceso a Internet persisten, ya no
+  constituyen la mayor preocupación a la cual nos enfrentamos, especialmente en
+  el terreno informativo, en donde han surgido importantes repercusiones
+  sociales, legales, epistemológicas e institucionales derivadas de la
+  producción, distribución, uso y resguardo de la información en sus distintas
+  manifestaciones.
 slides: example
 url_pdf: ""
 publication_types:
@@ -37,9 +40,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+  filename: featured.jpg
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
