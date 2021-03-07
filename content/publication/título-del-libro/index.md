@@ -1,11 +1,10 @@
 ---
-title: title
+title: "La información después de internet: repensando las libertades, amenazas
+  y derechos."
 subtitle: subtitulo
 publication_types:
   - "5"
-authors:
-  - GuerraGonzalez
-  - HernándezPérez
+authors: []
 author_notes:
   - IIBI
 doi: ""
