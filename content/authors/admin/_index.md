@@ -37,4 +37,4 @@ highlight_name: false
 ---
 Soy Jonathan Hernández, investigador del Instituto de Investigaciones Bibliotecológicas y de la Información de la UNAM. Mis intereses académicos se centran en el acceso a la información, infodiversidad, desinformación y olvido digital. He trabajado de cerca con asociaciones bibliotecarias nacionales e internacionales. Me apasiona el cine de terror, la cultura vaporwave y el synth-pop. 
 
-{{< icon name="download" pack="fas" >}} Consulta mi {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Consulta mi {{< staticref "https://drive.google.com/file/d/1JcujkADDg_HfM0lTxXUTjTTeMmfqoRic/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
