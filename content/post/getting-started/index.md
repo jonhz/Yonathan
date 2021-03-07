@@ -1,6 +1,6 @@
 ---
 title: Global work at IFLA
-subtitle: "Welcome 👋 you can find my recent IFLA activity here. "
+subtitle: "Welcome 👋 you can find some of my work at IFLA here. "
 date: 2020-12-13T00:00:00.000Z
 summary: You can find some of my global library work here.
 draft: false
@@ -25,7 +25,7 @@ image:
 ---
 It has been a great privilege for me to be a member of the Governing Board for the last two years working with great colleagues from around the world. I have gained a great understanding of the workings, capabilities, and challenges that face our Federation.
 
-I've been active for nearly 10 years in IFLA; working closely with the LAC Region, and the FAIFE Committee, being part of the second cohort of the IFLA International Leaders, advocating for Access to Information, working on several IFLA initiatives as the Global Vision, the IFLA Strategy and the new Governance. This experience has encouraged me to continue working for IFLA with strong convictions; connecting and empowering the library field, expanding opportunities for new librarians, and building strong relationships with strategic allies.
+I've been active for nearly 10 years in IFLA; working closely with the LAC Region, being part of the second cohort of the IFLA International Leaders, with FAIFE, advocating for Access to Information, working on several IFLA initiatives as the Global Vision, the IFLA Strategy and the new Governance. This experience has encouraged me to continue working for IFLA with strong convictions; connecting and empowering the library field, expanding opportunities for new librarians, and building strong relationships with strategic allies.
 
 
 
