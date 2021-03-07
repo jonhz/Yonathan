@@ -78,21 +78,21 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 ![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpg "IFLA LAC MidTerm Meeting 2020")
 
-[IFLA LAC MidTerm Meeting 2020](https://www.ifla.org/node/92866)
+###### [IFLA LAC MidTerm Meeting 2020](https://www.ifla.org/node/92866)
 
-[Webinar IFLA LAC Reforma](https://www.ifla.org/ES/node/93443)
+###### [Webinar IFLA LAC Reforma](https://www.ifla.org/ES/node/93443)
 
-[Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
+###### [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
 ## **IFLA International Leadership Programme**
 
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
-##### [Associates Announced](https://www.ifla.org/node/10587)
+###### [Associates Announced](https://www.ifla.org/node/10587)
 
-##### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
+###### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
-## **Working with Libraries, Library Associations and Institutions**
+## **Speaker at Library Events**
 
 \
 **Dag Hammarskjöld UN Library Insight Series.**\
