@@ -1,11 +1,11 @@
 ---
-title: Título del libro?
+title: "La información después de internet: repensando las libertades, amenazas
+  y derechos."
 publication_types:
   - "5"
-authors:
-  - admin
+authors: []
 author_notes: []
-doi: "13442245425"
+doi: http://ru.iibi.unam.mx/jspui/handle/IIBI_UNAM/125
 publication: aquí qué va?
 abstract: "Aquí el abstract ok? "
 draft: false
