@@ -21,5 +21,5 @@ content:
 design:
   view: 2
   background:
-    image: /assets/media/iflalogo.jpg
+    image: ""
 ---
