@@ -1,7 +1,6 @@
 ---
 title: Global work at IFLA and the Library Field.
-subtitle: "Welcome 👋 Here are selected highlights from my global work in the
-  library field.  "
+subtitle: Welcome 👋 Here are selected highlights from my global work.
 date: 2020-12-13T00:00:00.000Z
 summary: You can find some of my global library work here.
 draft: false
@@ -28,7 +27,7 @@ It has been a great privilege for me to be a member of the Governing Board for t
 
 I've been active for nearly 10 years in IFLA; working closely with the LAC Region, being part of the second cohort of the IFLA International Leaders, with FAIFE, advocating for Access to Information, working on several IFLA initiatives as the Global Vision, the IFLA Strategy and the new Governance. This experience has encouraged me to continue working for IFLA with strong convictions; connecting and empowering the library field, expanding opportunities for new librarians, and building strong relationships with strategic allies.
 
-## **Advocacy, Talks, and Interviews**
+# **Advocacy, Conferences, and Interviews**
 
 ![Launch of the 2017 DA2I Report at The New York Public Library](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
 
@@ -120,7 +119,9 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 **Wikimedia México** \
 [Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink) 
 
-## Mexican Professional Library Association (CNB)
+## **Mexican Professional Library Association (CNB)** 
+
+
 
 **President 2017-2019** \
 Here's a picture of our 2019 Conference at Chiapas, Mexico.
