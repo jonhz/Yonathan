@@ -21,4 +21,3 @@ content:
 design:
   view: 2
 ---
-Actividades en la IFLA
