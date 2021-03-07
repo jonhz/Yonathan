@@ -1,6 +1,7 @@
 ---
 title: Global work at IFLA
-subtitle: "Welcome 👋 you can find some of my work at IFLA here. "
+subtitle: "Welcome 👋 Here are selected highlights from my global work in the
+  library field.  "
 date: 2020-12-13T00:00:00.000Z
 summary: You can find some of my global library work here.
 draft: false
