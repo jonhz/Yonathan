@@ -21,5 +21,6 @@ content:
 design:
   view: 2
   background:
-    image: /assets/media/img_0561.png
+    image: ""
 ---
+Aquí va algo.
