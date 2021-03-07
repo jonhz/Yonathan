@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Conferencias 2
+widget_id: Conferenciasss
 headless: true
 weight: 40
 title: Confe
@@ -24,3 +24,4 @@ design:
   background:
     image: ""
 ---
+lbugubñjhñ ijiopjm
