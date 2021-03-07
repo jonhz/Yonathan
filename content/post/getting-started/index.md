@@ -31,8 +31,6 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 ![Launch of the 2017 DA2I Report at The New York Public Library](35905294391_ddb08409f2_c.jpg "Launch of the 2017 DA2I Report at The New York Public Library")
 
-
-
 **Advocacy**\
 [Partners for Literacy: IFLA Underlines Contribution of Libraries at Global Meeting](https://www.ifla.org/ES/node/91755)
 
@@ -46,24 +44,23 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 **FAIFE Speak Up! Blog**\
 [Facial Recognition, Libraries, and Intellectual Freedom ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
 
-
-
+\
 **FAIFE Webinar**\
 [FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# IFLA LAC
+## IFLA LAC
 
 ![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpg "IFLA LAC MidTerm Meeting 2020")
 
-### [IFLA LAC MidTerm Meeting 2020](https://www.ifla.org/node/92866)
+###### [IFLA LAC MidTerm Meeting 2020](https://www.ifla.org/node/92866)
 
-### [Webinar IFLA LAC Reforma](https://www.ifla.org/ES/node/93443)
+###### [Webinar IFLA LAC Reforma](https://www.ifla.org/ES/node/93443)
 
-### [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
+###### [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
-# IFLA International Leadership Programme
+## IFLA International Leadership Programme
 
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
@@ -73,7 +70,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 ###### [Internet Governance Forum 2016](https://www.ifla.org/node/11031)
 
-# Working with Libraries and Library Associations
+## Working with Libraries, Library Associations and Institutions
 
 **Dag Hammarskjöld UN Library Insight Series.**\
 [The Contribution of Libraries to the Fight Against Misinformation.](https://research.un.org/conferences/webinars)
@@ -85,6 +82,9 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 **American Library Association** \
 [An International Leaders Forum](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=499414)
+
+**Mexican Library Association** \
+[Las Bibliotecas en el contexto del Desarrollo Sostenible](https://www.youtube.com/watch?v=INGsXE0nO5g)
 
 **Guatemala Library Association** \
 [Tecnologia en tiempos de pandemia](https://www.youtube.com/watch?v=CfVZN9NUmOQ)
@@ -102,7 +102,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 
 
-# Mexican Professional Library Association (CNB) 
+## Mexican Professional Library Association (CNB) 
 
 **President 2017-2019** \
 Here's a picture of our 2019 Conference at Chiapas, Mexico.
