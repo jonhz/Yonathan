@@ -85,9 +85,9 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
 
-###### [Associates Announced](https://www.ifla.org/node/10587)
+[](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)[](https://www.ifla.org/node/92866)[Associates Announced](https://www.ifla.org/node/10587)
 
-###### [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
+[From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
 ## **Speaker at Library Events**
 
