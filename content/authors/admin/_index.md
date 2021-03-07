@@ -2,9 +2,12 @@
 title: Jonathan Hernández
 role: Investigador Asociado
 avatar_filename: avatar.jpg
-bio: Mis intereses se centran en el acceso a la información, infodiversidad, y
-  desinformación.
-interests: []
+bio: Investigador IIBI-UNAM. Interesado en el acceso a la información,
+  infodiversidad, y desinformación.
+interests:
+  - Infodiversidad
+  - Desinformación
+  - Bibliotecas
 social:
   - icon: envelope
     icon_pack: fas
