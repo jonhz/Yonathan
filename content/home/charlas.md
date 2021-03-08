@@ -3,6 +3,7 @@ widget: pages
 widget_id: Charlas
 headless: true
 weight: 60
+title: "Charlas "
 active: true
 design:
   columns: "2"
