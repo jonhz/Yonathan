@@ -1,5 +1,5 @@
 ---
-abstract: "Se discutió sobre el exceso informativo que se produce en crisis sanitarias. "
+abstract: Abstract
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
