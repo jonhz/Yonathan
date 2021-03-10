@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: IFLA
+  - name: Posts
     url: '#IFLA'
     weight: 20
   - name: Projects
