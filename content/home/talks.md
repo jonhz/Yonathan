@@ -23,4 +23,4 @@ design:
   background:
     image: ""
 ---
-Aquí va algo.
+Selección de charlas, entrevistas y conferencias.
