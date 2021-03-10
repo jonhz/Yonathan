@@ -54,7 +54,7 @@ IFLA\
 [Understanding Infodiversity: An Interview](https://www.ifla.org/ES/node/93576)
 
 ALA International Leads\
- [A check in with Librarians from around the world](http://www.ala.org/rt/sites/ala.org.rt/files/content/intlleads/leadsarchive/201906r.pdf)
+[A check in with Librarians from around the world](http://www.ala.org/rt/sites/ala.org.rt/files/content/intlleads/leadsarchive/201906r.pdf#page=16)
 
 \
 **IFLA Publications** \
