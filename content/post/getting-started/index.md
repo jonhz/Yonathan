@@ -25,7 +25,7 @@ image:
 ---
 It has been a great privilege for me to be a member of the Governing Board for the last two years working with great colleagues from around the world. I have gained a great understanding of the workings, capabilities, and challenges that face our Federation.
 
-I've been active for nearly 10 years in IFLA; working closely with the LAC Region, being part of the second cohort of the IFLA International Leaders, with FAIFE, advocating for Access to Information, working on several IFLA initiatives as the Global Vision, the IFLA Strategy and the new Governance. This experience has encouraged me to continue working for IFLA with strong convictions; connecting and empowering the library field, expanding opportunities for new librarians, and building strong relationships with strategic allies.
+I've been active for nearly 10 years in IFLA; working closely with the LAC Region, being part of the second cohort of the IFLA International Leaders, advocating for Access to Information, working on several IFLA initiatives as the Global Vision, the IFLA Strategy, and the new Governance. This experience has encouraged me to continue working for IFLA with strong convictions; connecting and empowering the library field, expanding opportunities for new librarians, and building strong relationships with strategic allies.
 
 # **Advocacy, Conferences, and Interviews**
 
@@ -47,6 +47,7 @@ I've been active for nearly 10 years in IFLA; working closely with the LAC Regio
 
 [Restore Balance, Protect Freedoms: Copyright Reforms in Mexico Need Rethinking](https://www.ifla.org/node/93209)
 
+\
 **Interviews**  \
 \
 IFLA\
@@ -55,17 +56,19 @@ IFLA\
 ALA International Leads\
  [A check in with Librarians from around the world](http://www.ala.org/rt/sites/ala.org.rt/files/content/intlleads/leadsarchive/201906r.pdf)
 
-**IFLA Publications** 
-
+\
+**IFLA Publications** \
+\
 FAIFE Speak Up! Blog\
 [Facial Recognition, Libraries, and Intellectual Freedom ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
 
 Conference paper\
 Pun, R., Nangle, D., & Hernández, J. (2017). [Libraries and Gender ♂♀ Neutral / Inclusive Bathrooms: Case Studies on Promoting Information, Inclusivity and Access in Open Spaces](http://library.ifla.org/1670/1/113-pun-en.pdf).
 
-Hernández, J. (2010) [The interactions between Google and librarianship: The Experience of Mexico](https://www.ifla.org/past-wlic/2010/140-hernandez-en.pdf).  
-
+Hernández, J. (2010) [The interactions between Google and librarianship: The Experience of Mexico](https://www.ifla.org/past-wlic/2010/140-hernandez-en.pdf).  \
+\
 **IFLA-FAIFE Webinar**\
+\
 [FAIFE Webinar Track and Trace: Covid 19 and Library Privacy](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -119,9 +122,7 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 **Wikimedia México** \
 [Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink) 
 
-## **Mexican Professional Library Association (CNB)** 
-
-
+## **Mexican Professional Library Association (CNB)**
 
 **President 2017-2019** \
 Here's a picture of our 2019 Conference at Chiapas, Mexico.
