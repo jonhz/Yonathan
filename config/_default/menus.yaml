@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publicaciones
+    url: '#publications'
+    weight: 20
   - name: IFLA
     url: '#posts'
-    weight: 20
-  - name: Talks
-    url: '#talks'
     weight: 30
-  - name: Publications
-    url: '#featured'
+  - name: Conferencias
+    url: '#talks'
     weight: 40
   - name: Contact
     url: '#contact'
