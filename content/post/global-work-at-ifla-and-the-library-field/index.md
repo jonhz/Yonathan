@@ -87,6 +87,7 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
 # \
+
 **IFLA International Leadership Programme**
 
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpeg "IFLA International Leadership Programme Second Cohort")
@@ -96,6 +97,7 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
 # \
+
 **Speaker at Library Events**
 
 \
@@ -130,9 +132,19 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 **Wikimedia México** \
 [Bibliotecas y Cultura Libre](https://www.facebook.com/watch/live/?v=2554067794805266&ref=watch_permalink) 
 
-# **Mexican Professional Library Association (CNB)**
+# \
+**Mexican Professional Library Association (CNB)**
 
-**President 2017-2019** \
-Here's a picture of our 2019 Conference at Chiapas, Mexico.
+**President 2017-2019** 
+
+
+
+40th anniversary\
+Celebrating the 40th anniversary of the Association with the presence of the IFLA Secretary General, Gerald Leitner talking about the importance of library associations and the strengthening of the library profession.
+
+![CNB 40th anniversary](cnbb.jpeg "CNB 40th anniversary")
+
+\
+Our 2019 Conference at Chiapas, Mexico.
 
 ![7 Congreso del Colegio Nacional de Bibliotecarios](congreso.jpeg "7 Congreso del Colegio Nacional de Bibliotecarios")
