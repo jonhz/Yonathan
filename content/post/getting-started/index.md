@@ -19,7 +19,7 @@ image:
   caption: IFLA Governing Board 2019-2021
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
   alt_text: IFLA Governing Board 2019-2021
 ---
