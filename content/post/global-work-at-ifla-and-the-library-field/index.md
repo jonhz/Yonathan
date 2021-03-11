@@ -62,7 +62,10 @@ ALA International Leads\
 FAIFE Speak Up! Blog\
 [Facial Recognition, Libraries, and Intellectual Freedom ](https://blogs.ifla.org/faife/2019/08/19/facial-recognition-libraries-and-intellectual-freedom/)
 
-Conference paper\
+Conference papers
+
+Hernández, J. & Pun, R. (2017). [Acceso Público a Internet: una visión global para América Latina](http://library.ifla.org/2094/1/S17-2017-hernandez-es.pdf)\
+\
 Pun, R., Nangle, D., & Hernández, J. (2017). [Libraries and Gender ♂♀ Neutral / Inclusive Bathrooms: Case Studies on Promoting Information, Inclusivity and Access in Open Spaces](http://library.ifla.org/1670/1/113-pun-en.pdf).
 
 Hernández, J. (2010) [The interactions between Google and librarianship: The Experience of Mexico](https://www.ifla.org/past-wlic/2010/140-hernandez-en.pdf).  \
