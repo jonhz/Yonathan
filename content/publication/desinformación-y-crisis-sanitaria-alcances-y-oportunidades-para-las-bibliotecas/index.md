@@ -7,6 +7,7 @@ authors: []
 author_notes:
   - IIBI
 doi: https://doi.org/10.22201/dgb.0187750xp.0.0.991
+pdf: https://bibliotecauniversitaria.dgb.unam.mx/rbu/article/view/991/994
 publication: Biblioteca Universitaria
 abstract: Se presenta un panorama general de la desinformación en internet
   ocasionada por la crisis de salud de la covid-19, la enfermedad infecciosa
@@ -20,5 +21,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-03-07T18:13:10.987Z
+date: 2020-03-07T18:13:10.987Z
 ---
