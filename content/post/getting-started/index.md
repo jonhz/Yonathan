@@ -91,6 +91,8 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
+
+
 ## **Speaker at Library Events**
 
 \
