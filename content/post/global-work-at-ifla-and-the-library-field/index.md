@@ -85,7 +85,7 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 ## **IFLA International Leadership Programme**
 
-![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpg "IFLA International Leadership Programme Second Cohort")
+![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpeg "IFLA International Leadership Programme Second Cohort")
 
 [](https://www.youtube.com/watch?v=0C2yCubkqT4&t=2576s)[](https://www.ifla.org/node/92866)[Associates Announced](https://www.ifla.org/node/10587)
 
@@ -114,7 +114,7 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 **L’Enssib à Lyon / L’Association des bibliothécaires de France / Comité français international bibliothèques et documentation - CFIBD** \
 [Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)
 
-![[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)](cfibd.jpg "[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)")
+![[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)](cfibd.jpg "[Nouveaux bibliothécaires dans un monde qui change.](cfibd.jpeg)
 
 **Biblioteca del Congreso de la Nación - Chile** \
 [El rol del Acceso Publico a Internet en la Implementación de la Agenda 2030](https://www.youtube.com/watch?v=oaXdHmzHlXY&t=54s)
@@ -127,4 +127,4 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 **President 2017-2019** \
 Here's a picture of our 2019 Conference at Chiapas, Mexico.
 
-![7 Congreso del Colegio Nacional de Bibliotecarios]( "7 Congreso del Colegio Nacional de Bibliotecarios")
+![7 Congreso del Colegio Nacional de Bibliotecarios](congreso.jpeg "7 Congreso del Colegio Nacional de Bibliotecarios")
