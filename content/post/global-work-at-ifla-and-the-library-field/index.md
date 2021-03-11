@@ -114,7 +114,7 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 **L’Enssib à Lyon / L’Association des bibliothécaires de France / Comité français international bibliothèques et documentation - CFIBD** \
 [Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)
 
-![[Nouveaux bibliothécaires dans un monde qui change.](http://nouveauxbibliothecaires.cfibd.fr/)](cfibd.jpg "[Nouveaux bibliothécaires dans un monde qui change.](cfibd.jpeg)
+![Nouveaux bibliothécaires dans un monde qui change.](cfibd.jpeg)
 
 **Biblioteca del Congreso de la Nación - Chile** \
 [El rol del Acceso Publico a Internet en la Implementación de la Agenda 2030](https://www.youtube.com/watch?v=oaXdHmzHlXY&t=54s)
