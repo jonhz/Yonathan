@@ -73,7 +73,8 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C2yCubkqT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## **IFLA LAC**
+# \
+**IFLA LAC**
 
 ![IFLA LAC MidTerm Meeting 2020](ifla-lac.jpeg "IFLA LAC MidTerm Meeting 2020")
 
@@ -83,7 +84,8 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 [Seminario Internacional "Las bibliotecas, las actividades de defensa y promoción y la implementación de la agenda 2030.](https://www.ifla.org/files/assets/lac/programachileesp.pdf)
 
-## **IFLA International Leadership Programme**
+# \
+**IFLA International Leadership Programme**
 
 ![IFLA International Leadership Programme Second Cohort](ifla-leaders_0.jpeg "IFLA International Leadership Programme Second Cohort")
 
@@ -91,13 +93,17 @@ Hernández, J. (2010) [The interactions between Google and librarianship: The Ex
 
 [From the Annual Conference 2016 ](https://www.ifla.org/ES/node/10801)
 
-## **Speaker at Library Events**
+# \
+**Speaker at Library Events**
 
 \
 **Dag Hammarskjöld UN Library Insight Series.**\
 [The Contribution of Libraries to the Fight Against Misinformation.](https://research.un.org/conferences/webinars)
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/hyBMnVZhcMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**UNESCO** \
+[Media and Information Literacy and Intercultural Dialogue University Network.](https://en.unesco.org/news/memory-institutions-are-uniquely-positioned-combat-covid-19-disinformation)
 
 **National Library of Perú** **(BNP)**\
 [Lectura, Biblioteca y Comunidad ](http://aulavirtual.bnp.edu.pe/course/view.php?id=9)
