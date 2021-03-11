@@ -64,7 +64,7 @@ FAIFE Speak Up! Blog\
 
 Conference papers
 
-Hernández, J. & Pun, R. (2017). [Acceso Público a Internet: una visión global para América Latina](http://library.ifla.org/2094/1/S17-2017-hernandez-es.pdf)\
+Hernández, J. & Pun, R. (2017). [Acceso Público a Internet: una visión global para América Latina.](http://library.ifla.org/2094/1/S17-2017-hernandez-es.pdf)\
 \
 Pun, R., Nangle, D., & Hernández, J. (2017). [Libraries and Gender ♂♀ Neutral / Inclusive Bathrooms: Case Studies on Promoting Information, Inclusivity and Access in Open Spaces](http://library.ifla.org/1670/1/113-pun-en.pdf).
 
