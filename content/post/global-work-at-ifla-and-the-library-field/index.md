@@ -1,5 +1,5 @@
 ---
-title: Delete
+title: "Global work at IFLA "
 subtitle: Welcome 👋 Here are selected highlights from my global work.
 date: 2021-03-11T17:16:30.506Z
 summary: You can find some of my global library work here.
