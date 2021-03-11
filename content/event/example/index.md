@@ -1,6 +1,6 @@
 ---
-abstract: Abstract
-slides: example
+abstract: "Discusión sobre el exceso informativo durante los inicios de la pandemia. "
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Exceso de información y datos en época de pandemia
@@ -27,6 +27,7 @@ projects: []
 image:
   caption: ""
   focal_point: Right
+  filename: featured.jpeg
 url_code: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aUtEKlEIqnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
