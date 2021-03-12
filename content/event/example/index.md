@@ -2,11 +2,11 @@
 abstract: "Discusión sobre el exceso informativo durante los inicios de la pandemia. "
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Serie: Información Viral.
 title: Exceso de información y datos en época de pandemia
 location: YouTube
 date: 2020-07-04T15:00:00.000Z
-date_end: 2020-07-04T16:00:00.000Z
+date_end: false
 all_day: false
 event: Serie Información Viral
 event_url: https://www.youtube.com/watch?v=aUtEKlEIqnc
@@ -14,12 +14,6 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 links: []
 publishDate: 2020-01-01T00:00:00.000Z
 tags: []
