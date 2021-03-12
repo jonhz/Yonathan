@@ -6,7 +6,6 @@ summary: Serie: Información Viral.
 title: Exceso de información y datos en época de pandemia
 location: YouTube
 date: 2020-07-04T15:00:00.000Z
-date_end: false
 all_day: false
 event: Serie Información Viral
 event_url: https://www.youtube.com/watch?v=aUtEKlEIqnc
